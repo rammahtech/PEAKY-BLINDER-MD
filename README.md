@@ -15,7 +15,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=blue)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/network)
 [![GitHub issues](https://img.shields.io/github/issues/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=red)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/issues)
 [![GitHub license](https://img.shields.io/github/license/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=green)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/blob/main/LICENSE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBaJvI7IUYbtCeaPh0I)
 
 </div>
 
@@ -167,7 +167,10 @@ Edit `settings.js` with your settings:
 
 ### 🔥 Stay Connected
 
-📢 **Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33)=** for updates!
+📢 **Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbBaJvI7IUYbtCeaPh0I)** for updates!
+
+📢 **Join our [Telegram Channel](https://t.me/Demon_lord_dev)** for support!
+
 ---
 
 ## 🤝 **Contributing**
@@ -224,16 +227,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116266407)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pugslycc)
 
+</div>
+
+---
+
 ## 👨‍💻 **THANKS TO**
 
 <div align="center">
 
-### **MALVIN KING** 👑 
-*The Mastermind Behind PEAKY-BLINDER-MD*
+### **AMON TECH** 👑 
+*Contributor & Supporter*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xdking2)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263776388689)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devMalvin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmonTech1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254759006509)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Demon_lord_dev)
 
 **"By order of the Peaky Blinders!"** 🚬
 
